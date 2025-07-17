@@ -1,0 +1,2 @@
+# SomeName
+Prompt analysis ChatGPT
